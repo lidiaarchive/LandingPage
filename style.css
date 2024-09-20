@@ -9,11 +9,11 @@
     font-size: 2em;
     margin-left: 20px;
 }
-.box{
+/* .box{
     transition: 1s;
-}
+} */
 .box:hover{
-    transform: scale(1);
+    /* transform: scale(1); */
     background-color:rgb(99, 126, 184) ;
 }
 .nav-kecil{
